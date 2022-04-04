@@ -6,7 +6,7 @@ function titlebar(val){
     var msg;
     var speed = 100;
     var pos = val;
-    msg = "Arun P Saji(17) From Kollam";
+    msg = "#@#@#@#@#@#@#Arun P Saji(18)#@#@#@#@#@#@#";
     var le = msg.length;
     if(rev == "fwd"){
         if(pos < le){
