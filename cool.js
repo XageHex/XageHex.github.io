@@ -15,9 +15,9 @@
 var rev = "fwd";
 function titlebar(val){
     var msg;
-    var speed = 100;
+    var speed = 70;
     var pos = val;
-    msg = "There's a secret hidden in this website,find it if you're smart ;) --Arun Krishnan";
+    msg = "There's a secret hidden in this website,find it if you're smart ;) -- Arun Krishnan";
     var le = msg.length;
     if(rev == "fwd"){
         if(pos < le){
